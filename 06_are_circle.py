@@ -14,3 +14,11 @@ print(" valor de pi: %r  ") % (pi)
 print("are do circulo: %r ") % (are)
 
 
+
+r = input('Valor do raio:')
+pi = 3.14
+r = int(r)
+a = pi * r ** 2
+print('are_circle: %r') % (a)
+
+

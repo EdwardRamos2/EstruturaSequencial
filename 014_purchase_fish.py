@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#Autor: Edward Barbosa
+#Autor: Edward Ramos
 #Autor: 09/26/2016
 
 print("####### PRODUCAO DE PEIXES #######")
